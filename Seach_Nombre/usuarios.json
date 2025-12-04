@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1,
+        "nombre": "Carlos",
+        "apellido": "García",
+        "edad": 56
+    },
+    {
+        "id": 2,
+        "nombre": "Ana",
+        "apellido": "Rodríguez",
+        "edad": 46
+    },
+    {
+        "id": 3,
+        "nombre": "Luis",
+        "apellido": "Martínez",
+        "edad": 32
+    },
+    {
+        "id": 4,
+        "nombre": "Laura",
+        "apellido": "Hernández",
+        "edad": 60
+    },
+    {
+        "id": 5,
+        "nombre": "Diego",
+        "apellido": "López",
+        "edad": 25
+    },
+    {
+        "id": 6,
+        "nombre": "Sofía",
+        "apellido": "González",
+        "edad": 38
+    },
+    {
+        "id": 7,
+        "nombre": "Javier",
+        "apellido": "Pérez",
+        "edad": 56
+    },
+    {
+        "id": 8,
+        "nombre": "Valentina",
+        "apellido": "Sánchez",
+        "edad": 36
+    },
+    {
+        "id": 9,
+        "nombre": "Roberto",
+        "apellido": "Ramírez",
+        "edad": 40
+    },
+    {
+        "id": 10,
+        "nombre": "Isabel",
+        "apellido": "Torres",
+        "edad": 28
+    },
+    {
+        "id": 11,
+        "nombre": "Miguel",
+        "apellido": "Flores",
+        "edad": 28
+    },
+    {
+        "id": 12,
+        "nombre": "Carmen",
+        "apellido": "Rivera",
+        "edad": 41
+    },
+    {
+        "id": 13,
+        "nombre": "Alejandro",
+        "apellido": "Gómez",
+        "edad": 53
+    },
+    {
+        "id": 14,
+        "nombre": "Mariana",
+        "apellido": "Díaz",
+        "edad": 57
+    },
+    {
+        "id": 15,
+        "nombre": "Fernando",
+        "apellido": "Reyes",
+        "edad": 41
+    },
+    {
+        "id": 16,
+        "nombre": "Gabriela",
+        "apellido": "Morales",
+        "edad": 20
+    },
+    {
+        "id": 17,
+        "nombre": "Emilio",
+        "apellido": "Cruz",
+        "edad": 39
+    },
+    {
+        "id": 18,
+        "nombre": "Carolina",
+        "apellido": "Ortiz",
+        "edad": 19
+    },
+    {
+        "id": 19,
+        "nombre": "Ricardo",
+        "apellido": "Gutiérrez",
+        "edad": 41
+    },
+    {
+        "id": 20,
+        "nombre": "Alejandra",
+        "apellido": "Chávez",
+        "edad": 61
+    },
+    {
+        "id": 21,
+        "nombre": "Guillermo",
+        "apellido": "Ramos",
+        "edad": 47
+    },
+    {
+        "id": 22,
+        "nombre": "Natalia",
+        "apellido": "Ruiz",
+        "edad": 55
+    },
+    {
+        "id": 23,
+        "nombre": "Oscar",
+        "apellido": "Requena",
+        "edad": 39
+    },
+    {
+        "id": 24,
+        "nombre": "Carla",
+        "apellido": "Castillo",
+        "edad": 33
+    },
+    {
+        "id": 25,
+        "nombre": "Jesus",
+        "apellido": "Vásquez",
+        "edad": 50
+    },
+    {
+        "id": 26,
+        "nombre": "Gustavo",
+        "apellido": "Jiménez",
+        "edad": 29
+    }
+]

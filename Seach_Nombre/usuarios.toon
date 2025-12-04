@@ -1,0 +1,27 @@
+[26]{id,nombre,apellido,edad}:
+  1,Carlos,García,56
+  2,Ana,Rodríguez,46
+  3,Luis,Martínez,32
+  4,Laura,Hernández,60
+  5,Diego,López,25
+  6,Sofía,González,38
+  7,Javier,Pérez,56
+  8,Valentina,Sánchez,36
+  9,Roberto,Ramírez,40
+  10,Isabel,Torres,28
+  11,Miguel,Flores,28
+  12,Carmen,Rivera,41
+  13,Alejandro,Gómez,53
+  14,Mariana,Díaz,57
+  15,Fernando,Reyes,41
+  16,Gabriela,Morales,20
+  17,Emilio,Cruz,39
+  18,Carolina,Ortiz,19
+  19,Ricardo,Gutiérrez,41
+  20,Alejandra,Chávez,61
+  21,Guillermo,Ramos,47
+  22,Natalia,Ruiz,55
+  23,Oscar,Requena,39
+  24,Carla,Castillo,33
+  25,Jesus,Vásquez,50
+  26,Gustavo,Jiménez,29
