@@ -1,5 +1,5 @@
 {
-    "name": "Seach_Nombre",
+    "name": "seach-nombre",
     "short_name": "seach_nombre",
     "start_url": ".",
     "display": "standalone",

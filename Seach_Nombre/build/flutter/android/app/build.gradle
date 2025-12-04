@@ -23,7 +23,7 @@ if (flutterVersionName == null) {
 }
 
 android {
-    namespace "com.flet.seach_nombre"
+    namespace "com.mycompany.seach_nombre"
     compileSdkVersion flutter.compileSdkVersion
 
     packagingOptions {
@@ -53,7 +53,7 @@ android {
     
 
     defaultConfig {        
-        applicationId "com.flet.seach_nombre"
+        applicationId "com.mycompany.seach_nombre"
         minSdkVersion flutter.minSdkVersion
         targetSdkVersion flutter.targetSdkVersion
         versionCode flutterVersionCode.toInteger()

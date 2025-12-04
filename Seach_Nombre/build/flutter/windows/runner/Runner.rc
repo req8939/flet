@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "Your Company" "\0"
-            VALUE "FileDescription", "Seach_Nombre" "\0"
+            VALUE "CompanyName", "Flet" "\0"
+            VALUE "FileDescription", "seach-nombre" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "seach_nombre" "\0"
-            VALUE "LegalCopyright", "Copyright (c) 2023 Your Company" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2025 by Flet" "\0"
             VALUE "OriginalFilename", "seach_nombre.exe" "\0"
-            VALUE "ProductName", "Seach_Nombre" "\0"
+            VALUE "ProductName", "seach-nombre" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
